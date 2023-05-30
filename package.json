@@ -1,0 +1,20 @@
+{
+  "name": "php-mobile-shop-ecommerce-website-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./sass/style.scss style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasaranga99/php-mobile-shop-ecommerce-website-.git"
+  },
+  "author": "W.G.R Hasaranga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasaranga99/php-mobile-shop-ecommerce-website-/issues"
+  },
+  "homepage": "https://github.com/hasaranga99/php-mobile-shop-ecommerce-website-#readme"
+}
